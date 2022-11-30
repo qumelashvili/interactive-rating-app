@@ -1,0 +1,31 @@
+main, .thanks-component{
+  background: radial-gradient(98.96% 98.96% at 50% 0%, #232A34 0%, #181E27 100%);
+  padding: 24px 24px 32px 24px;
+  box-sizing: border-box;
+}
+.score:hover{
+  background-color:#FC7614;
+  color: #FFFFFF;
+}
+.active{
+  background: #7C8798;
+}
+.active p{
+  color: #FFFFFF;
+}
+#score-area{
+  background-color: transparent;
+}
+.score p{
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+/* @media screen and (min-width: 1440px) {
+  main{
+    width: 412px!important;
+    margin: 195px auto;
+  }
+  
+} */
