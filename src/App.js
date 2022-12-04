@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from 'react';
+import React, {useState} from 'react';
 import './App.css';
 import RatingComponent from './components/RatingComponent';
 import ThanksComponent from './components/ThanksComponent/ThanksComponent';
